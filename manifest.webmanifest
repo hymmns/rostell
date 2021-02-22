@@ -1,0 +1,15 @@
+{
+	"background_color": "white",
+	"description": "Stay connected.",
+	"display": "standalone",
+	"icons": [
+			{
+					"src": "icon/icon.png",
+					"sizes": "192x192",
+					"type": "image/png"
+			}
+	],
+	"name": "Rostell",
+	"short_name": "Rostell",
+	"start_url": "/rostell/index.html"
+}
